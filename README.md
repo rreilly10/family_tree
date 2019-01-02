@@ -1,5 +1,5 @@
 # Family Tree
-A graph model of my extended family
+A graph model of my extended family includeing In-Laws
 
 ## Neo4J via Docker
 https://hub.docker.com/_/neo4j/
